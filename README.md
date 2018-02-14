@@ -1,2 +1,1 @@
-# infoVis
-infoVis assignment
+Social media has a great source for analyzing community opinions about specific topic. However, it is hard to find a good data for general threads to estimate what is the most frequent and broad topic worldwide. This report aims to find the most popular topics and the frequency of comments by investigating data collected from Reddit which a popular site with rich content. Tableau tool and Python 2.7 are used for understanding and analyzing the data.

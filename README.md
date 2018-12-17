@@ -5,3 +5,9 @@ The related dataset is downloaded from Stanford Large Network Dataset Collection
 
 The Distribution of Subreddits:
 ![The Distribution of Subreddits](https://github.com/bussfromspace/Analysis-of-a-Contemporary-Reddit-Data-Upvotes-Downvotes/blob/master/topicss.png)
+
+The Commenting Frequency of Subreddits:
+![The Distribution of Subreddits](https://github.com/bussfromspace/Analysis-of-a-Contemporary-Reddit-Data-Upvotes-Downvotes/blob/master/times.png)
+
+
+

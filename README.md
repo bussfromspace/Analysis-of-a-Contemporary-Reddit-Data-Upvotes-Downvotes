@@ -3,4 +3,5 @@ Social media has a great source for analyzing community opinions about specific 
 
 The related dataset is downloaded from Stanford Large Network Dataset Collection and it includes 132,308 Reddit submissions from 2008 to 2013.
 
+The Distribution of Subreddits:
 ![The Distribution of Subreddits](https://github.com/bussfromspace/Analysis-of-a-Contemporary-Reddit-Data-Upvotes-Downvotes/blob/master/topicss.png)

@@ -9,5 +9,8 @@ The Distribution of Subreddits:
 The Commenting Frequency of Subreddits:
 ![The Distribution of Subreddits](https://github.com/bussfromspace/Analysis-of-a-Contemporary-Reddit-Data-Upvotes-Downvotes/blob/master/times.png)
 
+Upvote & DownVote for Subreddits:
+![The Distribution of Subreddits](https://github.com/bussfromspace/Analysis-of-a-Contemporary-Reddit-Data-Upvotes-Downvotes/blob/master/votings.png)
+
 
 
